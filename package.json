@@ -1,0 +1,26 @@
+{
+  "name": "heroku_bmilletler",
+  "version": "1.0.0",
+  "description": "Halil Mert Akavcı",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "pg-promise": "^10.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertakavci/heroku_un_mert.git"
+  },
+  "author": "Mert Akavcı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertakavci/heroku_un_mert/issues"
+  },
+  "homepage": "https://github.com/mertakavci/heroku_un_mert#readme"
+}
